@@ -1,0 +1,2 @@
+# telran_stadies
+projects
