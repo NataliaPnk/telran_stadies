@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    color: black;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+td, th {
+    border: 2px solid #000;
+    font-size: 28px;
+    padding: 10 px;
+}
